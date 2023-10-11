@@ -11,4 +11,4 @@ class AppTestCase(unittest.TestCase):
         assert 'Hello world!' in response.data
 
 if __name__ == '__main__':
-    unittest.main()
+    unittest.main() 
